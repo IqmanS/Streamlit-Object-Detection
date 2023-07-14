@@ -1,0 +1,12 @@
+/guns-knives/
+/Gun_Object/
+/Object-Detection/
+/Yolo-Wts/guns-knives.yaml
+/Yolo-Wts/yolov8n.pt
+/cv.py
+/main.py
+/test.py
+/yolov8.py
+/yolov5s.pt
+/runs
+/.idea
